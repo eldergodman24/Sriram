@@ -14,7 +14,7 @@ const Navbar = () => {
           <a href="#products" className="text-[#111111] hover:text-blue-200 transition-colors font-medium">AI Solutions</a>
           <a href="#blog" className="text-[#111111] hover:text-blue-200 transition-colors font-medium">Testimonials</a>
           <a href="#ai" className="text-[#111111] hover:text-blue-200 transition-colors font-medium">Blog</a>
-          <button className="ml-4 bg-[#90D5FF] text-white font-semibold px-5 py-2 rounded-[8px] shadow hover:bg-blue-100 transition-colors">Contact Us</button>
+          <button className="ml-4 bg-[#0065d8bf] text-white font-semibold px-5 py-2 rounded-[8px] shadow hover:bg-blue-100 transition-colors">Contact Us</button>
         </div>
       </div>
     </nav>
